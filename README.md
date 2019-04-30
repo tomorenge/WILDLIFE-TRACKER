@@ -38,6 +38,8 @@ This apllication was written using Java programming language.
 ##.Support and contact details
 In case of any questions or feedback or clarifications, you can reach me at: tomorenge3@gmail.com
 
+##.License
+*Licenced under the MIT Licence Copyright (c) 2019 Tom Orenge
 
 
 
