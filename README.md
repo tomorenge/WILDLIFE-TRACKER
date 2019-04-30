@@ -6,3 +6,8 @@ By Tom Orenge
 The application allows rangers to track wildlife sightings in an area. The user can add an animal to the system and report its sighting by providing details such as location, health and age. The animals added can eithr be endangered or not endangered.
 
 ##.Setup/Installation Requirements
+   1. Clone the repository.
+   2. Navigate to the file.
+   3. Open with the text editor of your choice
+   4. Run "gradle run" to open the application on your browser.
+
