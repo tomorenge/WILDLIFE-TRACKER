@@ -1,4 +1,9 @@
 .color{
-  background-color: black;
+  background-color: black
   height:1000px;
+}
+
+.pic{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8S6_E1Tr5BotRLAbEi9OAl_SH44kwHXBglmpr1jEltHhZvQLOBQ");
+  background-size:cover;
 }
