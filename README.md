@@ -35,4 +35,9 @@ This apllication was written using Java programming language.
 .Spark - web framework.
 .Postgres SQL - Database
 
+##.Support and contact details
+In case of any questions or feedback or clarifications, you can reach me at: tomorenge3@gmail.com
+
+
+
 
