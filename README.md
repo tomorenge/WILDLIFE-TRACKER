@@ -3,7 +3,7 @@
 
 
 
-## WILDLIFE TRACKER##
+#. WILDLIFE TRACKER
 
 This is a java application used to track wildlife sightings in an area
 By Tom Orenge
@@ -17,7 +17,7 @@ The application allows rangers to track wildlife sightings in an area. The user 
    3. Open with the text editor of your choice
    4. Run "gradle run" to open the application on your browser.
 
-   ##.To re-create the database, follow these steps;
+   ## .To re-create the database, follow these steps;
 In PSQL:
 
 .CREATE DATABASE wildlife_tracker;
@@ -27,10 +27,10 @@ In PSQL:
 .CREATE TABLE sightings (id serial PRIMARY KEY, animal_id int, location varchar, ranger_name varchar);
 .CREATE DATABASE wildlife_tracker_test WITH TEMPLATE wildlife_tracker;
 
-##.Known Bugs
+## .Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
 
-##.Technologies and language used
+## .Technologies and language used
 This apllication was written using Java programming language.
 
 .Java development kit (Java SDK) - for creating the application
@@ -41,10 +41,10 @@ This apllication was written using Java programming language.
 .Spark - web framework.
 .Postgres SQL - Database
 
-##.Support and contact details
+## .Support and contact details
 In case of any questions or feedback or clarifications, you can reach me at: tomorenge3@gmail.com
 
-##.License
+## .License
 *Licenced under the MIT Licence Copyright (c) 2019 Tom Orenge
 
 
