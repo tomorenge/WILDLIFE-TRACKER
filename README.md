@@ -21,4 +21,9 @@ In PSQL:
 .CREATE TABLE sightings (id serial PRIMARY KEY, animal_id int, location varchar, ranger_name varchar);
 .CREATE DATABASE wildlife_tracker_test WITH TEMPLATE wildlife_tracker;
 
+##.Known Bugs
+There are no known bugs as at now but in case of any you may find please contact me.
+
+
+
 
