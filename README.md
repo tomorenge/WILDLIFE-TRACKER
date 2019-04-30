@@ -24,6 +24,15 @@ In PSQL:
 ##.Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
 
+##.Technologies and language used
+This apllication was written using Java programming language.
 
+.Java development kit (Java SDK) - for creating the application
+.Java Runtime Environment (JRE) - for executing the application
+.Sublime text - Text editor
+.Gradle - build tool
+.Git - version control environment
+.Spark - web framework.
+.Postgres SQL - Database
 
 
